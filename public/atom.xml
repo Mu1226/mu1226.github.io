@@ -6,7 +6,7 @@
   <link href="http://mu1226.github.io/atom.xml" rel="self"/>
   
   <link href="http://mu1226.github.io/"/>
-  <updated>2025-05-11T10:03:04.337Z</updated>
+  <updated>2025-05-14T07:16:55.280Z</updated>
   <id>http://mu1226.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="http://mu1226.github.io/2025/05/14/hello-world/"/>
+    <id>http://mu1226.github.io/2025/05/14/hello-world/</id>
+    <published>2025-05-14T07:16:55.280Z</published>
+    <updated>2025-05-14T07:16:55.280Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="http://mu1226.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://mu1226.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-08-03T03:46:59.000Z</published>
-    <updated>2025-05-11T10:03:04.337Z</updated>
+    <updated>2025-05-14T07:16:55.281Z</updated>
     
     
       
@@ -39,27 +60,6 @@
     
     
     <category term="-Init Tages" scheme="http://mu1226.github.io/tags/Init-Tages/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://mu1226.github.io/2024/08/03/hello-world/"/>
-    <id>http://mu1226.github.io/2024/08/03/hello-world/</id>
-    <published>2024-08-03T03:33:45.225Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
