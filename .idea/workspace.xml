@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e52df9-9b0b-4690-ae04-5b808c53be94" name="Changes" comment="I don't know;">
-      <change afterPath="$PROJECT_DIR$/source/images/Jiu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2024/08/03/hello-world/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2024/08/03/我的第一篇博客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2024/08/03/我的第一篇博客/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2024/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2024/08/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2024/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/Init-Categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Init-Categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/content.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/Readme.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/Readme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/first.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/first.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/aplayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/aplayer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/parallax.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/parallax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/rightMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/rightMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/rightMenus.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/rightMenus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/tags/contributors.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/tags/contributors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/tags/friends.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/tags/friends.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/plugins/tags/sites.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins/tags/sites.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/search/hexo.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/search/hexo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/rss2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/rss2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Init-Tages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Init-Tages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about/5E938E733726530634B8503569332534.png" beforeDir="false" />
-    </list>
+    <list default="true" id="02e52df9-9b0b-4690-ae04-5b808c53be94" name="Changes" comment="更新了真正意义上的第一篇博客——实验七" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +79,7 @@
       <workItem from="1747206856960" duration="826000" />
       <workItem from="1747207704275" duration="304000" />
       <workItem from="1747208017576" duration="575000" />
-      <workItem from="1747208610979" duration="4809000" />
+      <workItem from="1747208610979" duration="5110000" />
     </task>
     <task id="LOCAL-00001" summary="I don't know;">
       <option name="closed" value="true" />
@@ -131,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747208321691</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新了真正意义上的第一篇博客——实验七">
+      <option name="closed" value="true" />
+      <created>1747213513695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747213513695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新了真正意义上的第一篇博客——实验七">
+      <option name="closed" value="true" />
+      <created>1747213732904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747213732904</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I don't know;" />
-    <option name="LAST_COMMIT_MESSAGE" value="I don't know;" />
+    <MESSAGE value="更新了真正意义上的第一篇博客——实验七" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了真正意义上的第一篇博客——实验七" />
   </component>
 </project>
