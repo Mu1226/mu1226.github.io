@@ -6,7 +6,7 @@
   <link href="http://mu1226.github.io/atom.xml" rel="self"/>
   
   <link href="http://mu1226.github.io/"/>
-  <updated>2025-05-14T07:16:55.280Z</updated>
+  <updated>2025-05-14T10:08:39.515Z</updated>
   <id>http://mu1226.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web实验七——个人博客的搭建及部署</title>
+    <link href="http://mu1226.github.io/2025/05/14/Web%E5%AE%9E%E9%AA%8C%E4%B8%83%E2%80%94%E2%80%94%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E9%83%A8%E7%BD%B2/"/>
+    <id>http://mu1226.github.io/2025/05/14/Web%E5%AE%9E%E9%AA%8C%E4%B8%83%E2%80%94%E2%80%94%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E9%83%A8%E7%BD%B2/</id>
+    <published>2025-05-14T07:48:49.000Z</published>
+    <updated>2025-05-14T10:08:39.515Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="-Web Experment" scheme="http://mu1226.github.io/categories/Web-Experment/"/>
+    
+    
+    <category term="-Experiment" scheme="http://mu1226.github.io/tags/Experiment/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
