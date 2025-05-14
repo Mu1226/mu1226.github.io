@@ -28,8 +28,9 @@ categories: -Web Experment
 实际上，我们在当前博客的构建中已经完成上面要求的一半，我们接下来将在本篇博文中展现两张图片，如下图所示：
 
 #### **采用绝对路径的图片显示**
+
 以下图片的绝对路径如下，实际上也就是我的GitHub平台的头像...
-https://avatars.githubusercontent.com/u/174580656<br>
+<https://avatars.githubusercontent.com/u/174580656><br>
 <img
 src="https://avatars.githubusercontent.com/u/174580656"
 alt="GitHub My Avatar"
@@ -38,6 +39,7 @@ height="200"
 />
 
 #### **采用相对路径的图片显示**
+
 以下图片存放于本地，实际上也就是我Gitee平台的头像...<br>
 <img
 src="/images/Jiu.png"
@@ -47,21 +49,25 @@ height="200"
 />
 
 ### **思考**
+
 到这里实验的内容部分已然完成，接下来是对于思考题的分析。至于为什么要这么一段话放在这里，主要还是因为我有**强迫症**，根据标题之间需要字的过渡才好看...
+
 #### **思考题一**
+
 **在页面中是否可以引入本地绝对路径图片，如：d:/images/1.png？原因是什么？**
 
 **不可以，原因主要有以下几点**：
+  >
   > - **浏览器安全限制**：浏览器出于安全考虑，禁止直接访问本地文件系统（如 file:///D:/images/1.png），否则恶意网页可以随意读取用户硬盘数据；
   > - **HTTP协议要求**：网页必须通过 HTTP/HTTPS 协议加载资源，而 D:/images/1.png 是本地文件路径，无法被服务器托管；
   > - **GitHub Pages的限制**：即使你在本地测试时能显示 file:/// 路径的图片，上传到**GitHub Pages**后，所有路径必须基于**相对路径**或**网络绝对**路径；
 
 #### **思考题二**
+
 **由于github.io为静态页面托管，如何为自己的博客添加评论功能？**
 
 **可以通过以下方式实现评论：**
+  >
   > - **使用 GitHub Issues**：将每篇博文的评论关联到 GitHub Issues，利用 GitHub API 提交和显示评论；
   > - **第三方评论系统（无需登录）**：Disqus、Commento、Talkyard等等，支持匿名评论，无需用户拥有 GitHub 账号；
   > - **自建评论系统**：实际上，也可以手搓一个评论系统（顺手的事），具体技术栈可能涉及到：后端：Vercel + Serverless Function（如 Next.js API）、数据库：Firebase / Supabase / MongoDB Atlas（免费层）、前端：静态博客通过 fetch 调用 API；
-
-
