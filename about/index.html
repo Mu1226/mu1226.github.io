@@ -63,7 +63,7 @@
   --color-site-inner: #fff;
   --color-site-footer: #666;
   --color-card: #fff;
-  --color-text: #000;
+  --color-text: #444;
   --color-block: #f6f6f6;
   --color-inlinecode: #c74f00;
   --color-codeblock: #fff7ea;
@@ -73,10 +73,10 @@
   --color-h4: #444;
   --color-h5: #555;
   --color-h6: #666;
-  --color-p: #000;
-  --color-list: #000;
-  --color-list-hl: #9f946a;
-  --color-meta: #000;
+  --color-p: #444;
+  --color-list: #666;
+  --color-list-hl: #30ad91;
+  --color-meta: #888;
   --color-read-bkg: #e0d8c8;
   --color-read-post: #f8f1e2;
   --color-copyright-bkg: #f5f5f5;
@@ -97,13 +97,13 @@
   background: transparent;
 }
 *::-webkit-scrollbar-thumb {
-  background: #c7ba85;
+  background: #3dd9b6;
   cursor: pointer;
   border-radius: 2px;
   -webkit-border-radius: 2px;
 }
 *::-webkit-scrollbar-thumb:hover {
-  background: #c7ba85;
+  background: #ff5722;
 }
 html {
   color: var(--color-text);
@@ -149,7 +149,7 @@ body.modal-active {
   }
 }
 a {
-  color: #000;
+  color: #2092ec;
   cursor: pointer;
   text-decoration: none;
   transition: all 0.28s ease;
@@ -160,7 +160,7 @@ a {
   -ms-transition: all 0.28s ease;
 }
 a:hover {
-  color: #c7ba85;
+  color: #ff5722;
 }
 a:active,
 a:hover {
@@ -196,7 +196,7 @@ hr {
   border: 0;
   border-radius: 1px;
   -webkit-border-radius: 1px;
-  border-bottom: 1px solid rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(68,68,68,0.1);
 }
 button,
 input {
@@ -489,7 +489,7 @@ button {
 }
 .cover-wrapper .cover-body {
   margin-top: 64px;
-  margin-bottom: 20px;
+  margin-bottom: 100px;
 }
 .cover-wrapper .cover-body,
 .cover-wrapper .cover-body .top,
@@ -523,7 +523,7 @@ button {
   font-family: "华文中宋", "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, Helvetica, monospace;
   font-size: 3.125rem;
   line-height: 1.2;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.1);
 }
 .cover-wrapper .cover-body .subtitle {
   font-size: 20px;
@@ -574,7 +574,7 @@ button {
   width: 32px;
   top: 0;
   left: 5px;
-  color: rgba(0,0,0,0.75);
+  color: rgba(68,68,68,0.75);
 }
 .cover-wrapper .cover-body .m_search .input {
   display: -webkit-box /* OLD - iOS 6-, Safari 3.1-6 */;
@@ -738,9 +738,9 @@ button {
   top: 0;
   width: 100%;
   height: 64px;
-  background-color: var(--color-card);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* 添加阴影 */
+  background: var(--color-card);
+  box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 1px 2px 0px rgba(0,0,0,0.1);
 }
 .l_header.auto {
   transition: opacity 0.4s ease;
@@ -789,7 +789,6 @@ button {
   -o-justify-content: space-between;
   -ms-justify-content: space-between;
   align-items: center;
-  font-size: 13px;
 }
 .l_header #wrapper .nav-main {
   transition: all 0.28s ease;
@@ -932,7 +931,7 @@ button {
   -moz-transition: all 0.28s ease;
   -o-transition: all 0.28s ease;
   -ms-transition: all 0.28s ease;
-  color: #c7ba85;
+  color: #3dd9b6;
 }
 .l_header .switcher >li >a:hover {
   border: none;
@@ -1112,7 +1111,7 @@ ul.m-pc >li>a {
 }
 ul.m-pc >li>a:active,
 ul.m-pc >li>a.active {
-  border-bottom: 2px solid #c7ba85;
+  border-bottom: 2px solid #3dd9b6;
 }
 ul.m-pc li:hover >ul.list-v,
 ul.list-v li:hover >ul.list-v {
@@ -1251,7 +1250,7 @@ ul.list-v >li>a:hover {
 }
 .l_header ul.nav-list-h>li >a:active,
 .l_header ul.nav-list-h>li >a.active {
-  color: #c7ba85;
+  color: #3dd9b6;
 }
 .l_header ul.nav-list-h>li:hover>a {
   color: var(--color-list-hl);
@@ -1632,7 +1631,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
     debug: "env",
     cdn: {"js":{"app":"/js/app.js","parallax":"/js/plugins/parallax.js","rightMenu":"/js/plugins/rightMenu.js","rightMenus":"/js/plugins/rightMenus.js","sites":"/js/plugins/tags/sites.js","friends":"/js/plugins/tags/friends.js","contributors":"/js/plugins/tags/contributors.js","search":"/js/search/hexo.js"},"css":{"style":"/css/style.css"}},
     default: {"avatar":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/avatar/round/3442075.svg","link":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/link/8f277b4ee0ecd.svg","cover":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/cover/76b86c0226ffd.svg","image":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/image/2659360.svg"},
-    lastupdate: new Date(1747227374067),
+    lastupdate: new Date(1747311693463),
     sidebar: {
       for_page: ["blogger","lastupdate","category","tagcloud","donate"],
       for_post: ["toc"],
@@ -2427,7 +2426,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
 <h2 id="我的目标与愿景"><a href="#我的目标与愿景" class="headerlink" title="我的目标与愿景"></a>我的目标与愿景</h2><p>我希望未来可以从事游戏开发相关的工作。在游戏开发的全过程中，除了改BUG，其余时间都是快乐的（废话），我能感受到不同于开发其他项目的感觉。在做游戏的时候，我并不觉得疲倦，反而充满精神，一天干十个小时的开发工作不在话下。<br><strong>诸位，我会朝着我的目标前进的!</strong> ———— <strong>天沐凉风</strong></p>
 <h2 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h2><p>如果你对我的工作感兴趣，或者有任何问题、建议，欢迎随时联系我！我非常乐意听到你的声音。</p>
 <ul>
-<li><strong>电子邮件</strong>：<a href="mailto:&#x6d;&#49;&#x33;&#x37;&#53;&#x35;&#57;&#57;&#50;&#56;&#x36;&#x30;&#64;&#49;&#54;&#x33;&#x2e;&#99;&#111;&#109;">&#x6d;&#49;&#x33;&#x37;&#53;&#x35;&#57;&#57;&#50;&#56;&#x36;&#x30;&#64;&#49;&#54;&#x33;&#x2e;&#99;&#111;&#109;</a></li>
+<li><strong>电子邮件</strong>：<a href="mailto:&#x6d;&#x31;&#51;&#x37;&#x35;&#x35;&#57;&#x39;&#50;&#x38;&#x36;&#48;&#64;&#x31;&#54;&#51;&#x2e;&#x63;&#x6f;&#109;">&#x6d;&#x31;&#51;&#x37;&#x35;&#x35;&#57;&#x39;&#50;&#x38;&#x36;&#48;&#64;&#x31;&#54;&#51;&#x2e;&#x63;&#x6f;&#109;</a></li>
 </ul>
 <hr>
 <p>感谢你访问我的页面，希望我们能有更多的交流！</p>
