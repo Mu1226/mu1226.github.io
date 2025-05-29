@@ -6,7 +6,7 @@
   <link href="http://mu1226.github.io/atom.xml" rel="self"/>
   
   <link href="http://mu1226.github.io/"/>
-  <updated>2025-05-14T12:21:39.455Z</updated>
+  <updated>2025-05-29T02:09:42.462Z</updated>
   <id>http://mu1226.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Web程序设计大作业</title>
+    <link href="http://mu1226.github.io/2025/05/29/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9A/"/>
+    <id>http://mu1226.github.io/2025/05/29/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9A/</id>
+    <published>2025-05-29T02:06:23.000Z</published>
+    <updated>2025-05-29T02:09:42.462Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;在线聊天系统项目报告&quot;&gt;&lt;a href=&quot;#在线聊天系统项目报告&quot; class=&quot;headerlink&quot; title=&quot;在线聊天系统项目报告&quot;&gt;&lt;/a&gt;在线聊天系统项目报告&lt;/h1&gt;&lt;h2 id=&quot;一、需求分析&quot;&gt;&lt;a href=&quot;#一、需求分析&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Web程序设计" scheme="http://mu1226.github.io/categories/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="大作业" scheme="http://mu1226.github.io/tags/%E5%A4%A7%E4%BD%9C%E4%B8%9A/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Web实验七——个人博客的搭建及部署</title>
     <link href="http://mu1226.github.io/2025/05/14/Web%E5%AE%9E%E9%AA%8C%E4%B8%83%E2%80%94%E2%80%94%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E9%83%A8%E7%BD%B2/"/>
     <id>http://mu1226.github.io/2025/05/14/Web%E5%AE%9E%E9%AA%8C%E4%B8%83%E2%80%94%E2%80%94%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E9%83%A8%E7%BD%B2/</id>
     <published>2025-05-14T07:48:49.000Z</published>
-    <updated>2025-05-14T12:21:39.455Z</updated>
+    <updated>2025-05-29T02:08:31.910Z</updated>
     
     
       
@@ -34,10 +59,10 @@
     
     
     
-    <category term="-Web Experment" scheme="http://mu1226.github.io/categories/Web-Experment/"/>
+    <category term="Web程序设计" scheme="http://mu1226.github.io/categories/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
     
     
-    <category term="-Experiment" scheme="http://mu1226.github.io/tags/Experiment/"/>
+    <category term="实验" scheme="http://mu1226.github.io/tags/%E5%AE%9E%E9%AA%8C/"/>
     
   </entry>
   
@@ -67,7 +92,7 @@
     <link href="http://mu1226.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://mu1226.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-08-03T03:46:59.000Z</published>
-    <updated>2025-05-14T07:16:55.281Z</updated>
+    <updated>2025-05-29T02:08:56.171Z</updated>
     
     
       
@@ -81,10 +106,10 @@
     
     
     
-    <category term="-Init Categories" scheme="http://mu1226.github.io/categories/Init-Categories/"/>
+    <category term="Init Categories" scheme="http://mu1226.github.io/categories/Init-Categories/"/>
     
     
-    <category term="-Init Tages" scheme="http://mu1226.github.io/tags/Init-Tages/"/>
+    <category term="Init Tags" scheme="http://mu1226.github.io/tags/Init-Tags/"/>
     
   </entry>
   

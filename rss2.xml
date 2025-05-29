@@ -15,8 +15,35 @@
     <atom:link href="http://mu1226.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>南昌大学22级计算机科学与技术的一名学生，虽然目前什么也不会，但是我会努力加油的:&gt;</description>
-    <pubDate>Wed, 14 May 2025 12:21:39 GMT</pubDate>
+    <pubDate>Thu, 29 May 2025 02:09:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Web程序设计大作业</title>
+      <link>http://mu1226.github.io/2025/05/29/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9A/</link>
+      <guid>http://mu1226.github.io/2025/05/29/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9A/</guid>
+      <pubDate>Thu, 29 May 2025 02:06:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;在线聊天系统项目报告&quot;&gt;&lt;a href=&quot;#在线聊天系统项目报告&quot; class=&quot;headerlink&quot; title=&quot;在线聊天系统项目报告&quot;&gt;&lt;/a&gt;在线聊天系统项目报告&lt;/h1&gt;&lt;h2 id=&quot;一、需求分析&quot;&gt;&lt;a href=&quot;#一、需求分析&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://mu1226.github.io/categories/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/">Web程序设计</category>
+      
+      
+      <category domain="http://mu1226.github.io/tags/%E5%A4%A7%E4%BD%9C%E4%B8%9A/">大作业</category>
+      
+      
+      <comments>http://mu1226.github.io/2025/05/29/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%A7%E4%BD%9C%E4%B8%9A/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Web实验七——个人博客的搭建及部署</title>
@@ -35,10 +62,10 @@
       
       
       
-      <category domain="http://mu1226.github.io/categories/Web-Experment/">-Web Experment</category>
+      <category domain="http://mu1226.github.io/categories/Web%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/">Web程序设计</category>
       
       
-      <category domain="http://mu1226.github.io/tags/Experiment/">-Experiment</category>
+      <category domain="http://mu1226.github.io/tags/%E5%AE%9E%E9%AA%8C/">实验</category>
       
       
       <comments>http://mu1226.github.io/2025/05/14/Web%E5%AE%9E%E9%AA%8C%E4%B8%83%E2%80%94%E2%80%94%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E9%83%A8%E7%BD%B2/#disqus_thread</comments>
@@ -86,10 +113,10 @@
       
       
       
-      <category domain="http://mu1226.github.io/categories/Init-Categories/">-Init Categories</category>
+      <category domain="http://mu1226.github.io/categories/Init-Categories/">Init Categories</category>
       
       
-      <category domain="http://mu1226.github.io/tags/Init-Tages/">-Init Tages</category>
+      <category domain="http://mu1226.github.io/tags/Init-Tags/">Init Tags</category>
       
       
       <comments>http://mu1226.github.io/2024/08/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
